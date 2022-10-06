@@ -1,0 +1,15 @@
+C:\Users\felipe.dias\Desktop\Meu projetos C#\WinFormTentativa1\bin\Debug\WinFormTentativa1.exe.config
+C:\Users\felipe.dias\Desktop\Meu projetos C#\WinFormTentativa1\bin\Debug\WinFormTentativa1.exe
+C:\Users\felipe.dias\Desktop\Meu projetos C#\WinFormTentativa1\bin\Debug\WinFormTentativa1.pdb
+C:\Users\felipe.dias\Desktop\Meu projetos C#\WinFormTentativa1\obj\Debug\WinFormTentativa1.csproj.AssemblyReference.cache
+C:\Users\felipe.dias\Desktop\Meu projetos C#\WinFormTentativa1\obj\Debug\WinFormTentativa1.csproj.SuggestedBindingRedirects.cache
+C:\Users\felipe.dias\Desktop\Meu projetos C#\WinFormTentativa1\obj\Debug\WinFormTentativa1.Form1.resources
+C:\Users\felipe.dias\Desktop\Meu projetos C#\WinFormTentativa1\obj\Debug\WinFormTentativa1.Properties.Resources.resources
+C:\Users\felipe.dias\Desktop\Meu projetos C#\WinFormTentativa1\obj\Debug\WinFormTentativa1.csproj.GenerateResource.cache
+C:\Users\felipe.dias\Desktop\Meu projetos C#\WinFormTentativa1\obj\Debug\WinFormTentativa1.csproj.CoreCompileInputs.cache
+C:\Users\felipe.dias\Desktop\Meu projetos C#\WinFormTentativa1\obj\Debug\WinFormTentativa1.exe
+C:\Users\felipe.dias\Desktop\Meu projetos C#\WinFormTentativa1\obj\Debug\WinFormTentativa1.pdb
+C:\Users\felipe.dias\Desktop\Meu projetos C#\WinFormTentativa1\bin\Debug\WinFormTentativa1.exe.manifest
+C:\Users\felipe.dias\Desktop\Meu projetos C#\WinFormTentativa1\bin\Debug\WinFormTentativa1.application
+C:\Users\felipe.dias\Desktop\Meu projetos C#\WinFormTentativa1\obj\Debug\WinFormTentativa1.exe.manifest
+C:\Users\felipe.dias\Desktop\Meu projetos C#\WinFormTentativa1\obj\Debug\WinFormTentativa1.application
